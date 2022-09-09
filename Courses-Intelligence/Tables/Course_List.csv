@@ -1,0 +1,37 @@
+course_key,course_name,subcategory_key,platform_key,status_key
+1,SQL - MySQL for Data Analytics and Business Intelligence,4,1,1
+2,Tableau 2020 A-Z: Hands-On Tableau Training for Data Science,1,1,1
+3,Microsoft Power BI Desktop for Business Intelligence,1,1,1
+4,The Complete JavaScript Course 2022: From Zero to Expert!,7,1,1
+5,Business Process Modeling A-Z™: Learn BPMN 2.0 From Scratch,2,1,1
+6,Microsoft SQL from A to Z,4,1,5
+7,The Advanced SQL Server Masterclass For Data Analysis,4,1,5
+8,Tableau 20 Advanced Training: Master Tableau in Data Science,1,1,5
+9,Build Responsive Real-World Websites with HTML and CSS,7,1,3
+10,Relational Database Design,4,1,1
+11,Data Warehouse Fundamentals for Beginners,1,1,5
+12,Complete C# Unity Game Developer 2D,5,1,5
+13,Complete C# Unity Game Developer 3D,5,1,5
+14,Unity C# Scripting : Complete C# For Unity Game Development,5,1,5
+15,Learn To Code Trading Card Game Battle System With Unity 3D,5,1,5
+16,Game Physics - Introducing Gravitation & Rotation in Unity,5,1,5
+17,"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",6,1,5
+18,*react*,7,1,5
+19,Svelte.js - The Complete Guide (incl. Sapper.js),7,1,5
+20,Responsive Web Design Essentials - HTML5 CSS3 Bootstrap,7,1,6
+21,The Practical BPMN 2.0 Master Class,2,1,6
+22,Taming Big Data with Apache Spark and Python - Hands On!,3,1,4
+23,Spark and Python for Big Data with PySpark,3,1,4
+24,Deep Learning A-Z™: Hands-On Artificial Neural Networks,3,1,4
+25,Artificial Intelligence A-Z™: Learn How To Build An AI,3,1,4
+26,[NEW] Ultimate AWS Certified Cloud Practitioner - 2022,8,1,5
+27,AWS Certified Cloud Practitioner Exam Training [New] 2022,8,1,5
+28,AWS Certified Cloud Practitioner 500 Practice Exam Questions,8,1,5
+29,GCP for Beginners - Become a Google Cloud Digital Leader,8,1,5
+30,Google Cloud Digital Leader Certification For Beginner - GCP,8,1,5
+31,Machine Learning (MAEBD),3,2,3
+32,Multivariate Statistics (MAEBD),9,2,3
+33,Computational Numerical Statistics (MAEBD),9,2,3
+34,Information Retrieval (MAEBD),3,2,3
+35,Systems for Big Data Processing (MAEBD),3,2,3
+36,Data Modeling and Relational Database Design using ERwin,4,1,1

@@ -1,0 +1,403 @@
+course_key,section_number,section_name,duration
+1,1,"Introduction to databases, SQL, and MySQL",00h14
+1,2,SQL theory,00h21
+1,3,Basic database terminology,00h35
+1,4,Installing MySQL and getting acquainted with the interface,00h27
+1,5,First steps in SQL,00h43
+1,6,MySQL constraints,00h36
+1,7,SQL best practices,00h10
+1,8,Loading the 'employees' database,00h03
+1,9,SQL SELECT statement,01h12
+1,10,SQL INSERT statement,00h13
+1,11,SQL UPDATE statement,00h10
+1,12,SQL DELETE statement,00h09
+1,13,My SQL - Aggregate functions,00h20
+1,14,SQL Joints,01h18
+1,15,SQL Subqueries,00h17
+1,16,SQL Self join,00h08
+1,17,SQL Views,00h07
+1,18,Stored routines,00h49
+1,19,Advanced SQL Topics,00h45
+1,20,Combining SQL and Tableau - Introduction,00h16
+1,21,Combining SQL and Tableau - Task 1,00h27
+1,22,Combining SQL and Tableau - Task 2,00h14
+1,23,Combining SQL and Tableau - Task 3,00h11
+1,24,Combining SQL and Tableau - Task 4,00h09
+1,25,Combining SQL and Tableau - Task 5,00h06
+1,26,Practice SQL - 10 Final Query Questions,00h01
+1,27,Bonus Lecture,00h01
+2,1,It's super eacy to get Started,00h20
+2,2,Tableau Basics: Your First Bar chart,00h51
+2,3,"Time series, Aggregation, and Filters",00h47
+2,4,"Maps, Scatter plotes, and Your First Dashboard",01h01
+2,5,"Joining, Blending and Relationships; PLUS: Dual Axis Charts",01h41
+2,6,"Table Calculations, Advanced Dashboards, Storytelling",01h07
+2,7,Advanced Data Preparation,00h38
+2,8,"Clusters, Custom Territories, Design Features",01h08
+2,9,What's new in Tableau,00h55
+2,10,Conclusion,00h14
+3,1,Getting Started,00h10
+3,2,Introducing Microsoft Power BI Desktop,00h23
+3,3,Connecting & Shaping Data with Power BI Desktop,02h25
+3,4,Creating Table Relationships & Data Models in Power BI,01h36
+3,5,Analyzing Data with DAX Calculations in Power BI,03h07
+3,6,Visualizing Data with Power BI Reports,02h32
+3,7,NEW: Artificial Intelligence (AI) Visuals,00h42
+3,8,Bonus Project: Maven Market,00h09
+3,9,Wrapping Up,00h02
+4,1,"Welcome, Welcome, Welcome!",00h23
+4,2,JavaScript Fundamentals - Part 1,04h41
+4,3,JavaScript Fundamentals - Part 2,04h33
+4,4,How to Navigate This Course,00h04
+4,5,Developer Skills & Editor Setup,02h04
+4,6,[OPTIONAL] HTML & CSS Crash Course,00h56
+4,7,JavaScript in the Browser: DOM and Events Fundamentals,03h54
+4,8,How JavaScript Works Behind the Scenes,03h07
+4,9,"Data Structures, Modern Operators and Strings",05h34
+4,10,A Closer Look at Functions,02h37
+4,11,Working With Arrays,06h08
+4,12,"Numbers, Dates, Intl and Timers",03h15
+4,13,Advanced DOM and Events,05h18
+4,14,Object-Oriented Programming (OOP) With JavaScript,04h10
+4,15,"Mapty App: OOP, Geolocation, External Libraries, and More!",03h59
+4,16,"Asynchronous JavaScript: Promises, Async/Await, and AJAX",05h01
+4,17,"Modern JavaScript Development: Modules, Tooling, and Functional",03h50
+4,18,Forkify App: Building a Modern Application,08h23
+4,19,Setting Up Git and Deployment,00h59
+4,20,The End!,00h04
+4,21,[LEGACY] Acces the Old Course,00h01
+5,1,Course Intro,00h06
+5,2,Business Process Model and Notation,00h43
+5,3,Informations artefacts and resources in BPMN,00h39
+5,4,Rework and Repetition,00h26
+5,5,Events,00h32
+5,6,Bonus Lectures,00h01
+6,1,Introduction to SELECT Statements,01h01
+6,2,Filtering Data with the WHERE Clause,00h49
+6,3,Sorting Data with the ORDER BY Clause,00h14
+6,4,Querying Multiple Tables with Joins,00h38
+6,5,Aggregate Functions,00h12
+6,6,Grouping Data with the GROUP BY Clause,00h15
+6,7,Filtering Groups with the HAVING Clause,00h14
+6,8,Using SQL Server Functions,00h43
+6,9,SQL Server Data Types and Type Casting,00h06
+6,10,Working with Table Expressions,00h44
+6,11,CASE Statements,00h32
+6,12,Creating Tables and Inserting/Updating Data,00h14
+7,1,Before we start coding…,00h30
+7,2,Advanced Analysis with Window Functions,00h59
+7,3,Subqueries,01h07
+7,4,Common Table Expressions (CTEs),00h36
+7,5,Temp Tables,01h10
+7,6,Optimization,01h11
+7,7,Programming SQL,01h37
+8,1,Introduction,00h15
+8,2,Groups and Sets,01h28
+8,3,Advanced Table Calculations,02h28
+8,4,Advanced Data Prep + Analytics In Tableau,02h06
+8,5,Creating Animations in Tableau,00h47
+8,6,Level of Detail Calculations (LOD),01h38
+8,7,Advanced Mapping Techniques,00h59
+8,8,Conclusion,00h14
+8,9,Bonus Lectures,00h02
+9,1,Welcome and First Steps,00h49
+9,2,HTML Fundamentals,02h05
+9,3,CSS Fundamentals,05h25
+9,4,"Layouts: Floats, Flexbox, and CSS Grid Fundamentals",04h02
+9,5,Web Design Rules and Framework,04h53
+9,6,Components and Layout Patterns,04h29
+9,7,Omnifood Project - Setup and Desktop Version,10h17
+9,8,Omnifood Project - Responsive Web Design,02h44
+9,9,"Omnifood Project - Effects, Optimizations, Deployment",02h40
+9,10,The End!,00h05
+9,11,[LEGACY] Old Course Version 1,00h01
+10,1,Introduction,00h13
+10,2,Data Modelling Process,00h29
+10,3,Database Design,00h16
+10,4,Second Normal Form,00h20
+10,5,Third Normal Form,00h12
+10,6,Design Considerations,00h13
+11,1,Welcome and First Steps,00h10
+11,2,Data Warehousing Concepts,00h17
+11,3,Data Warehousing Architecture,00h46
+11,4,Bring Data Into Your Warehouse,00h34
+11,5,Data Warehousing Design: Building Blocks,00h41
+11,6,"Design Facts, Fact Tables, Dimensions, and Dimension Tables",01h25
+11,7,Managing Data Warehouse History Through Slowly Changing Dimensions,00h32
+11,8,Designing Your ETL,00h31
+11,9,Selecting Your Data Warehouse Environment,00h11
+11,10,Conclusion,00h01
+12,1,Introduction & Setup,00h37
+12,2,Delivery Driver,02h19
+12,3,Snow Boarder,02h27
+12,4,Quiz Master,03h04
+12,5,TileVania,05h13
+12,6,Laser Defender,04h31
+12,7,Updates & Important Messages,00h01
+12,8,Continuing your GameDev Journey,00h05
+13,1,Introduction & Setup,00h51
+13,2,Obstacle Course,03h01
+13,3,Project Boost,05h02
+13,4,Argon Assault,07h09
+13,5,Realm Rush,07h07
+13,6,Zombie Runner,07h21
+13,7,Updates & Important Messages,00h01
+13,8,Continuing your GameDev Journey,00h05
+14,1,Introduction to Unity C# Scripting,00h09
+14,2,Getting Started,03h07
+14,3,Diving into Core Unity C# Scripting,04h11
+14,4,Intermediate Concepts,03h12
+14,5,Create a 2D Candy Catch Game,02h36
+14,6,Creating Useful Scripts Ready to Use,01h38
+14,7,Scripting Basic AI,01h21
+14,8,Scripting for Android & Mobile Devices,04h29
+14,9,Learn Version Controlling,00h55
+14,10,Build a complete 3D Game,03h53
+14,11,Bonus section: Special Discount Coupons,00h01
+15,1,Introduction,00h20
+15,2,Cards,02h24
+15,3,Battle Scene Visual Layout,03h05
+15,4,Preparing to Introduce Logic Scripts To Our Game,02h33
+15,5,Basic Game Mechanics,04h22
+15,6,Advanced Game Mechanics,02h35
+15,7,Bonus Section / Downloads Section,00h01
+16,1,Introduction & Setup,00h13
+16,2,Newton's Laws of Motion,02h47
+16,3,Simple Rotation,01h27
+16,4,Making Contact,00h46
+17,1,Introduction,00h40
+17,2,Optional: JavaScript - A Quick Refresher,00h51
+17,3,Understanding the Basics,01h33
+17,4,Improved Development Workflow and Debugging,00h48
+17,5,Working with Express.js,01h34
+17,6,Working with Dynamic Content & Adding Templating Engines,02h03
+17,7,The Model View Controller (MVC),00h44
+17,8,Optional: Enhancing the App,00h36
+17,9,Dynamic Routes & Advanced Models,01h39
+17,10,SQL Introduction,00h53
+17,11,Unterstanding Sequelize,01h52
+17,12,Working with NoSQL & MongoDB,02h19
+17,13,Working with Mongoose,01h17
+17,14,Sessions & Cookies,01h13
+17,15,Adding Authentication,01h09
+17,16,Sending Emails,00h10
+17,17,Advanced Authentication,00h36
+17,18,Unterstanding Validation,01h16
+17,19,Error Handling,00h48
+17,20,File Upload & Download,01h11
+17,21,Adding Pagination,00h26
+17,22,Understanding Async Requests,00h23
+17,23,Adding Payments,00h29
+17,24,Working with REST APIs - The Basics,01h03
+17,25,Working with REST APIs - The Practical Application,02h30
+17,26,Understanding Async Await in Node.js,00h14
+17,27,Understanding Websockets & Socket.io,00h37
+17,28,Working with GraphQL,02h47
+17,29,Deploying our App,01h02
+17,30,Testing Node.js Applications,01h42
+17,31,Node.js as a Build Tool & Using npm,00h22
+17,32,Modern JavaScript & NodeJS,00h26
+17,33,NodeJS & TypeScript,01h30
+17,34,Na Introduction to Deno,01h34
+17,35,"Deno, CRUS & Databases (MongoDB)",00h38
+17,36,Roundup,00h03
+18,1,*react*,00h00
+19,1,Getting Started,00h42
+19,2,Base Syntax & Core Features,00h52
+19,3,Working with Conditionals & Loops,00h36
+19,4,A Closer Look at Reactivity,00h12
+19,5,Course Project - First Steps,01h06
+19,6,Diving Deeper Into Components,01h07
+19,7,Course Project - Components Deep Dive,00h47
+19,8,Working with Bindings & Forms,00h35
+19,9,Course Project - Bindings & Forms,00h23
+19,10,Managing State & Data with Stores,00h53
+19,11,Course Project - Stores,01h00
+19,12,"Motion, Transitions & Animations",00h37
+19,13,Course Project - Transitions,00h11
+19,14,Network Interaction via Http,00h32
+19,15,Course Project - Http,00h40
+19,16,Special Elements,00h27
+19,17,Routing & Server-side Rendering with Sapper,01h09
+19,18,Deployment,00h22
+19,19,Course Roundup,00h12
+20,1,Getting Started,00h07
+20,2,Introduction to HTML and CSS,01h08
+20,3,Project 1: Restaurant Website,02h41
+20,4,Project 2: Bike Repair Website,06h13
+20,5,Project 3: Responsive Portfolio Website,02h52
+20,6,Project 4: Bootstrap Yogurt Website,03h35
+20,7,What's Next,00h07
+21,1,Introduction,00h01
+21,2,The Show Shop,00h14
+21,3,The Race Track,00h08
+21,4,The Beauty Paradise,00h15
+21,5,BPMN Traps,00h15
+21,6,Space Ship,00h16
+21,7,Best Practices,00h15
+21,8,Travel,00h21
+21,9,Case Study,00h03
+22,1,Getting Started with Spark,00h31
+22,2,Spark Basics and the RDD Interface,01h53
+22,3,"SparkSQL, DataFrames, and DataSets",01h01
+22,4,Advanced Examples of Spark Programs,01h20
+22,5,Running Spark on a Cluster,00h51
+22,6,Machine Learning with Spark ML,00h45
+22,7,"Spark Streaming, Structured Streaming, and GraphX",00h31
+22,8,You Made It! Where to Go from Here,00h05
+23,1,Introduction to Course,00h30
+23,2,Setting up Python with Spark,00h06
+23,3,Databricks Setup,00h12
+23,4,Local VirtualBox Setup,00h31
+23,5,AWS EC2 PySpark Setup,00h39
+23,6,AWS EMR Cluster Setup,00h17
+23,7,Python Crash Course,00h59
+23,8,Spark DataFrame Basics,01h05
+23,9,Spark DataFrame Project Exercise,00h20
+23,10,Introduction to Machine Learning with Mllib,00h19
+23,11,Linear Regression,01h00
+23,12,Logistic Regression,01h00
+23,13,Decision Trees and Random Forests,00h52
+23,14,K-means Clustering,00h41
+23,15,Collaborative Filtering for Recommender Systems,00h19
+23,16,Natural Language Processing,00h46
+23,17,Spark Streaming with Python,00h57
+23,18,Bonus,00h01
+24,1,Welcome to the course,00h19
+24,2,Part 1 - Artificial Neural Networks,00h01
+24,3,ANN Intuition,01h18
+24,4,Building an ANN,01h18
+24,5,Part 2 - Convolutional Neural Networks,00h01
+24,6,CNN Intuition,01h41
+24,7,Building a CNN,01h35
+24,8,Part 3 - Recurrent Neural Networks,00h01
+24,9,RNN Intuition,01h12
+24,10,Building a RNN,02h01
+24,11,Evaluating and Improving the RNN,00h02
+24,12,Part 4 - Self Organizing Maos,00h01
+24,13,SOMs Intuition,01h31
+24,14,Building a SOM,00h54
+24,15,Mega Case Study,00h31
+24,16,Part 5 - Boltzmann Machines,00h03
+24,17,Boltzmann Machine Intuition,01h12
+24,18,Building a Boltzmann Machine,02h50
+24,19,Part 6 - AutoEncoders,00h03
+24,20,AutoEncoders Intuition,00h37
+24,21,Building an AutoEncoder,02h19
+24,22,Annex - Get the Machine Learning Basics,00h01
+24,23,Regression and Classification Intuition,00h27
+24,24,Data Preprocessing Template,01h32
+24,25,Logistic Regression Implementation,01h11
+24,26,Bonus Lectures,00h02
+25,1,Welcome to the course!,00h17
+25,2,Part 0 - Fundamentals of Reinforcement Learning,00h01
+25,3,Q-Learning Intuition,01h49
+25,4,Q-Learning Visualization,00h19
+25,5,Part 1 - Deep Q-Learning,00h01
+25,6,Deep Q-Learning Intuition,00h56
+25,7,Deep Q-Learning Implementation,02h50
+25,8,Deep Q-Learning Visualization,00h27
+25,9,Part 2 - Deep Convolutional Q-Learning,00h01
+25,10,Deep Convolutional Q-Learning Intuition,00h19
+25,11,Deep Convolutional Q-Learning Implementation,02h24
+25,12,Deep Convolutional Q-Learning Visualization,00h30
+25,13,Part 3 - A3C,00h01
+25,14,A3C Intuition,00h58
+25,15,A3C Implementation,02h20
+25,16,A3C Visualization,00h14
+25,17,Annex 1: Artificial Neural Networks,01h30
+25,18,Annex 2: Convolutional Neural Networks,01h41
+25,19,Bonus Lectures,00h28
+26,1,Introduction,00h12
+26,2,Code & Slides Download,00h01
+26,3,What is Cloud Computing?,00h33
+26,4,IAM - Identity and Access Management,00h54
+26,5,EC2 - Elastic Compute Cloud,01h21
+26,6,EC2 Instance Storage,00h55
+26,7,ELB & ASG - Elastic Load Balancing & Auto Scaling Groups,00h36
+26,8,S3,01h16
+26,9,Databases & Analytics,00h46
+26,10,"Other Compute Services: ECS, Lambda, Batch, Lightsail",00h38
+26,11,Deployments & Managing Infrastructure at Scale,00h56
+26,12,Legeraging AWS Global Infrastructure,00h49
+26,13,Cloud Integrations,00h17
+26,14,Cloud Monitoring,00h50
+26,15,VPC & Networking,00h26
+26,16,Security & Compliance,00h50
+26,17,Machine Learning,00h17
+26,18,"Account Management, Billing & Support",01h10
+26,19,Advanced Identity,00h09
+26,20,Other Services,00h17
+26,21,AWS Architecting & Ecosystem,00h38
+26,22,Preparing for Exam + Practice Exam,00h27
+26,23,Congratulations,00h04
+27,1,Let's Get Started!,00h13
+27,2,Create AWS Free Tier Account,00h20
+27,3,Cloud Computing and AWS,00h49
+27,4,Identity and Access Management (AWS IAM),00h37
+27,5,AWS Compute Services,01h17
+27,6,AWS Storage Services,01h15
+27,7,"DNS, Elastic Load Balancing, and Auto Scaling",00h48
+27,8,Application Services,00h38
+27,9,"Amazon VPC, Networking, and Hybrid",01h09
+27,10,Deployment and Automation,00h51
+27,11,Databases and Analytics,00h52
+27,12,Management and Governance,00h40
+27,13,AWS Cloud Security and Identity,00h52
+27,14,Architecting for the Cloud,00h11
+27,15,"Accounts, Billing and Support",00h53
+27,16,"Migration, Machine Learning and More",00h31
+27,17,Exam Preparation and Tips,00h15
+27,18,Full Length Practice Exam,00h01
+27,19,Final Exam Preparation,00h02
+28,1,AWS Test 1,02h00
+28,2,AWS Test 2,02h00
+28,3,AWS Test 3,02h00
+28,4,AWS Test 4,02h00
+28,5,AWS Test 5,02h00
+28,6,AWS Test 6,02h00
+29,1,Getting Started - Google Cloud,00h17
+29,2,Regions and Zones in GCP,00h07
+29,3,"Compute Engine, Instance Groups, Load Balancing",01h39
+29,4,"Managed Services - IAAS, PAAS ans SAAS",00h27
+29,5,Exploring Google Cloud Platform GCP Compute Services,01h27
+29,6,"Block, File and Object Storage",00h37
+29,7,Databases,00h53
+29,8,Getting started with Cloud IAM,00h29
+29,9,Organizing Google Cloud Resources and Setting Up Hybrid Cloud,00h30
+29,10,More Virtual Machines,00h11
+29,11,Getting Started with DevOps,00h33
+29,12,Building Loosely Coupled Applications with Cloud Pub Sub,00h24
+29,13,Google Cloud Architecture for Cloud Digital Leader,01h02
+29,14,Digital Transformation,00h20
+29,15,Cost Management,00h29
+29,16,Quick Review,00h12
+29,17,Get Ready,00h06
+30,1,Introduction,00h11
+30,2,Google Cloud Account,00h09
+30,3,Module 1 - General Cloud Knowledge,00h35
+30,4,Module 2 - General Google Cloud Knowledge,01h01
+30,5,Module 3 - Google Cloud Products and Services,00h01
+30,6,Cloud Identity & IAM,00h41
+30,7,Google Compute Engine,00h51
+30,8,"Containers, VM & GKE",00h32
+30,9,Serverless Compute Services,00h35
+30,10,Networking,01h04
+30,11,Storage,00h40
+30,12,Database,00h53
+30,13,ML & AI Offering,00h27
+30,14,Data Pipeline Products,00h27
+30,15,Different Migration options,00h37
+30,16,Thank you,00h03
+31,1,* Waiting to input class syllabus *,00h00
+32,1,* Waiting to input class syllabus *,00h00
+33,1,* Waiting to input class syllabus *,00h00
+34,1,* Waiting to input class syllabus *,00h00
+35,1,* Waiting to input class syllabus *,00h00
+36,1,Introduction,00h21
+36,2,Relationships,00h27
+36,3,Data Modeling Exercise,00h16
+36,4,ERwin Core Features,01h00
+36,5,Dimensional Modeling,00h53
+36,6,Normalization,00h35
+36,7,Student Exercises,00h07
