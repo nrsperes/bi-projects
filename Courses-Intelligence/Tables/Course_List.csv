@@ -6,7 +6,7 @@ course_key,course_name,subcategory_key,platform_key,status_key
 5,Business Process Modeling A-Z™: Learn BPMN 2.0 From Scratch,2,1,1
 6,Microsoft SQL from A to Z,4,1,5
 7,The Advanced SQL Server Masterclass For Data Analysis,4,1,5
-8,Tableau 20 Advanced Training: Master Tableau in Data Science,1,1,5
+8,Tableau 20 Advanced Training: Master Tableau in Data Science,1,1,2
 9,Build Responsive Real-World Websites with HTML and CSS,7,1,3
 10,Relational Database Design,4,1,1
 11,Data Warehouse Fundamentals for Beginners,1,1,5
@@ -29,9 +29,11 @@ course_key,course_name,subcategory_key,platform_key,status_key
 28,AWS Certified Cloud Practitioner 500 Practice Exam Questions,8,1,5
 29,GCP for Beginners - Become a Google Cloud Digital Leader,8,1,5
 30,Google Cloud Digital Leader Certification For Beginner - GCP,8,1,5
-31,Machine Learning (MAEBD),3,2,3
-32,Multivariate Statistics (MAEBD),9,2,3
-33,Computational Numerical Statistics (MAEBD),9,2,3
-34,Information Retrieval (MAEBD),3,2,3
-35,Systems for Big Data Processing (MAEBD),3,2,3
+31,Machine Learning (MAEBD),3,2,2
+32,Multivariate Statistics (MAEBD),9,2,2
+33,Computational Numerical Statistics (MAEBD),9,2,2
+34,Information Retrieval (MAEBD),3,2,2
+35,Systems for Big Data Processing (MAEBD),3,2,2
 36,Data Modeling and Relational Database Design using ERwin,4,1,1
+37,Beginners Guide To Business Presentations And Powerpoint,10,1,1
+38,Productivity Machine: Time Management & Productivity Hacks,10,1,1
